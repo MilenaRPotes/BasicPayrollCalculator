@@ -8,6 +8,17 @@ A simple console application built in **C#** to calculate **gross salary**, **de
 - 🧮 **Automatic calculations:** Computes gross salary, deductions, and net salary.
 - 💸 **Deductions included:** Social security and taxes for salaries above a certain threshold.
 
+## 🛠 How It Works
+1️⃣ Enter the number of hours worked.  
+2️⃣ Enter the hourly rate.  
+3️⃣ The program calculates:
+   - Gross salary  
+   - Social security (4%)  
+   - Tax (10% for salaries above 2,000,000)  
+   - Net salary after deductions  
+4️⃣ Results are displayed clearly in the console.  
+5️⃣ Press any key to exit the program.
+
 ## 🛠️ Technologies
 - 🖥️ **C#**
 - ⚙️ **.NET**
