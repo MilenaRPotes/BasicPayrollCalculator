@@ -15,4 +15,4 @@ A simple console application built in **C#** to calculate **gross salary**, **de
 ## 🚀 How to Run
 1. **Clone this repository:**  
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/MilenaRPotes/BasicPayrollCalculator.git
