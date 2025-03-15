@@ -1,0 +1,8 @@
+# Build files
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.log
