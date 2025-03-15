@@ -19,8 +19,8 @@ A simple console application built in **C#** to calculate **gross salary**, **de
 4️⃣ Results are displayed clearly in the console.  
 5️⃣ Press any key to exit the program.
 
-## 🛠️ Technologies
-- 🖥️ **C#**
+## 🖥️ Technologies
+- 🧑‍💻 **C#**
 - ⚙️ **.NET**
 
 ## 🚀 How to Run
